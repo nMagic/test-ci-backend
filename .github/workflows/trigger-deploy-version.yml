@@ -25,4 +25,4 @@ jobs:
             -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: ${{ secrets.DEPLOY_USER }} ${{ secrets.DEPLOY_TOKEN }}" \
-            https://api.github.com/repos/nMagic/test-ci-deploy/actions/workflows/WORKFLOW_ID/dispatches
+            https://api.github.com/repos/nMagic/test-ci-deploy/actions/workflows/W_kwDOIJVdUM4CNMCH/dispatches
